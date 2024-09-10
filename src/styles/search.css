@@ -1,0 +1,21 @@
+.search-select {
+    width: 150px;
+}
+
+.search-input {
+    width: 270px;
+}
+
+.search-bg {
+    background-image: url('../images/background.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    height: 250px;
+}
+
+.search-color {
+    color: white; 
+    font-size: 20px;
+    text-shadow: 1px 1px 2px black;
+  }
